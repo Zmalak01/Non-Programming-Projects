@@ -1,6 +1,6 @@
 # Why I Include Non-Programming Projects
 
-I don’t just ship code—I design systems. My non-programming work (requirements, diagrams, case studies, threat models, network topologies, test plans) is the structure my code sits on. It shows how I frame problems, reason about trade-offs, and build ethical, secure, and reliable solutions across **ethics & society**, **networking**, **software engineering**, and **system design**.
+I don’t just ship code I design systems. My non-programming work (requirements, diagrams, case studies, threat models, network topologies, test plans) is the structure my code sits on. It shows how I frame problems, reason about trade-offs, and build ethical, secure, and reliable solutions across **ethics & society**, **networking**, **software engineering**, and **system design**.
 
 ---
 
